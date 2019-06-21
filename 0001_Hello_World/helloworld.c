@@ -1,4 +1,4 @@
-// Write a basic Hello, World! code.
+// Write a basic "Hello, World!" code.
 
 #include <stdio.h>
 
