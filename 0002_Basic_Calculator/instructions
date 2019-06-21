@@ -1,6 +1,6 @@
 Write a basic calculator that can to do addition, subtraction, multiplication and division with two numbers.
 
-Example output (addition):
+Example Output (addition):
 Do you want to do addition(A), subtraction(S), multiplication(M) or division(D)? A
 Enter first number: 10
 Enter second number: 20
