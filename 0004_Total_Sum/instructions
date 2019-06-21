@@ -1,2 +1,6 @@
 Danny wants to buy X computers for his company, one computer price is 95.125 coins.
 Write a program that help Danny to calculate it.
+
+Example Output:
+Danny, how many computers you want to buy? 3
+Price of 3 computers is 276.375 coins.
