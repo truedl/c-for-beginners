@@ -5,3 +5,22 @@ Prices:
 One pizza is 20 coins
 One addition to pizza is 2 coins
 Delivery is more 5 coins
+
+Example Output:
+For calculating new order type N.
+For closing the program type Q.
+Type: N
+
+
+Enter the ordered pizzas count: 2
+
+
+Enter the ordered additions to the pizza count: 4
+
+
+Delivery? (Y/N): Y
+Order price is 53 coins.
+
+For calculating new order type N.
+For closing the program type Q.
+Type: Q
