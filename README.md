@@ -9,4 +9,4 @@ Using (I'm recommend to add mingw32\bin to your path for using it in this way):
 ```
 
 ### Note: I'm working on new challanges ###
-### Target: 999 Challanges ###
+#### Target: 999 Challanges ####
