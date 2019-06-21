@@ -1,6 +1,6 @@
-<p align="center">
+<b align="center">
   If you're a beginner in the C language or want to practice there is some challanges for you to train your C!
-</p>
+</b>
 
 ## How to compile and run C code? ##
 You can run C code using gcc.exe file. You can find it by downloading mingw (mingw32\bin\gcc.exe).
