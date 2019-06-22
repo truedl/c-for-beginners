@@ -20,4 +20,4 @@ run
 ```
 To compile and run this code!.
 
-### Note: I'm working on new challanges (Target 999 challanges: 6 Done) ###
+### Note: I'm working on new challanges (Target 999 challanges: 8 Done) ###
