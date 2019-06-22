@@ -1,0 +1,17 @@
+Your brother Alex is getting ready to participate at the 40km marathon in the next week. He is asking you to write a stopwatch program
+that he can start it and stop it and check his time in minutes.
+
+Example Output:
+Press enter to start or type ANY one character to quit.
+
+
+Press enter to stop the stopwatch.
+
+Result: 0.104 minutes.
+Press enter to start or type ANY one character to quit.
+
+
+Press enter to stop the stopwatch.
+
+Result: 0.173 minutes.
+Press enter to start or type ANY one character to quit.
