@@ -1,0 +1,20 @@
+Joy is from Canada where temperature is measured in celcius. 
+
+Joy goes to USA and finds himself in trouble all the time as temperature is measured in Fahrenheit.
+
+Knowing formula to convert temperature, help Joy to convert temperature from Fahrenheit to Celcius.
+
+Formula: 
+
+Celcius = (Fahrenheit - 32) * 5 / 9;
+
+
+Example #1:
+
+Input: 120
+Output: 48.89
+
+Example #2:
+
+Input: 194
+Output: 90
