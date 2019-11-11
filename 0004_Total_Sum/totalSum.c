@@ -10,7 +10,7 @@ int main(){
     printf("Danny, how many computers you want to buy? ");
     scanf("%d", &x);
 
-    printf("Price of %d computers is %.3f coins.", x, x * computer_price);
+    printf("Price of %d computers is %.3f coins.", x, x * computer_price); //.3 represents that print 3point after dot
 
     return 0;
 }

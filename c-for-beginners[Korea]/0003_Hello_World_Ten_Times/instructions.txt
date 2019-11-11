@@ -1,6 +1,6 @@
-Write a basic Hello, World! code that repeated 10 times.
+Hello, World! 를 반복하여 10번 출력하시오.
 
-Example Output:
+예상 출력:
 Hello, World!
 Hello, World!
 Hello, World!

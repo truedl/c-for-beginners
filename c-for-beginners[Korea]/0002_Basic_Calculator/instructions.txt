@@ -1,7 +1,10 @@
-Write a basic calculator that can to do addition, subtraction, multiplication and division with two numbers.
+두 숫자 사이간의 덧셈,뺄셈,곱셈,나눗셈을 할수 있는 기초 계산기를 작성하시오. 
 
-Example Output (addition):
-Do you want to do addition(A), subtraction(S), multiplication(M) or division(D)? A
-Enter first number: 10
-Enter second number: 20
+예상 출력(덧셈의 경우):
+addition=덧셈(A), subtraction=뺄셈(S), multiplication=곱셈(M), division=나눗셈(D) 중에 무엇을 하시겠습니까? A
+첫번째 숫자: 10
+두번째 숫자: 20
 30.000000
+
+
+PS.왜 덧셈 결과가 실수 인지 생각해보자

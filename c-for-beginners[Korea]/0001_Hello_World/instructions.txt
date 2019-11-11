@@ -1,4 +1,4 @@
-Write a basic Hello, World! code.
+기초적인 Hello, World! 코드를 작성하시오.
 
-Example Output:
-Hello, World!
+예상 출력:
+Hello. World!
