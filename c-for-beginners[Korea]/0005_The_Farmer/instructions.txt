@@ -1,0 +1,11 @@
+Max the farmer wants to write daily his earnings from selling wheat (Max need to earn minimum 200 coins to end his working day).
+Write a program for Max that he can write his earnings and stop after he reaches 200+ coins.
+
+Example Output:
+Enter earnings: 10
+Enter earnings: 36
+Enter earnings: 94
+Enter earnings: 5
+Enter earnings: 36
+Enter earnings: 100
+Congratulations!. You reach 281.000 coins and now you can take a break.

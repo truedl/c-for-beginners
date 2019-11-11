@@ -1,0 +1,13 @@
+Write a basic Hello, World! code that repeated 10 times.
+
+Example Output:
+Hello, World!
+Hello, World!
+Hello, World!
+Hello, World!
+Hello, World!
+Hello, World!
+Hello, World!
+Hello, World!
+Hello, World!
+Hello, World!

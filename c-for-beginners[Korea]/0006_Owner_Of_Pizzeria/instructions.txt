@@ -1,0 +1,26 @@
+You found on the internet an owner of pizzeria. He wants to order a developer for writing a program where he can take orders. He need to type
+the count of pizzas, the number of additions to the pizza and if delivery is needed.
+
+Prices:
+One pizza is 20 coins
+One addition to pizza is 2 coins
+Delivery is more 5 coins
+
+Example Output:
+For calculating new order type N.
+For closing the program type Q.
+Type: N
+
+
+Enter the ordered pizzas count: 2
+
+
+Enter the ordered additions to the pizza count: 4
+
+
+Delivery? (Y/N): Y
+Order price is 53 coins.
+
+For calculating new order type N.
+For closing the program type Q.
+Type: Q
