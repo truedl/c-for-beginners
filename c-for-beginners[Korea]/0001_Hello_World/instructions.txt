@@ -1,4 +1,4 @@
-�������� Hello, World! �ڵ带 �ۼ��Ͻÿ�.
+기초적인 Hello, World! 코드를 작성하시오.
 
-���� ���:
+예상 출력:
 Hello. World!
