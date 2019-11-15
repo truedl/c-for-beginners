@@ -23,7 +23,7 @@ int main(){
             }
         }
 
-        switch(c){
+        switch(c){ //Case Conditions about menu selection.
             case 'Q':
                 quit = 1;
                 break;
@@ -38,7 +38,7 @@ int main(){
                 printf("\n\nDelivery? (Y/N): ");
                 scanf(" %c", &ch);
 
-                switch(ch){
+                switch(ch){ //Select customer needs delivery
                     case 'Y':
                         delivery = 1;
                         break;
@@ -58,13 +58,13 @@ int main(){
                     sum += delivery_price;
                 }
 
-                printf("Order price is %d coins.\n", sum);
+                printf("Order price is %d coins.\n", sum); //output result price
 
                 break;
 
             default:
                 if(c != '\n'){
-                    printf("Unknown option \"%c\".\n\n", c);
+                    printf("Unknown option \"%c\".\n\n", c); //handle exeption about wrong input
                 }
                 break;
         }

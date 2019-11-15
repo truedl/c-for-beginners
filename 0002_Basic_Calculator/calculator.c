@@ -7,15 +7,15 @@ int main(){
     char c;
 
     printf("Do you want to do addition(A), subtraction(S), multiplication(M) or division(D)? ");
-    scanf("%c", &c);
+    scanf("%c", &c); //enter Character variable to operate
 
     printf("Enter first number: ");
-    scanf("%f", &first_num);
+    scanf("%f", &first_num); //enter first number
 
     printf("Enter second number: ");
-    scanf("%f", &second_num);
+    scanf("%f", &second_num); //enter second number
 
-    switch(c){
+    switch(c){ //Switch-Case statement to return differentiate result by condition
         case 'A':
             printf("%f", first_num + second_num);
             break;

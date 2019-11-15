@@ -1,0 +1,37 @@
+Your 7 year old niece always finds it troublesome to get century for year provided. Especially, when asked about 100th year of each century. 
+
+For example, given 1800, she wouldn't be sure whether it's 18th century or 19th.
+
+Write a C program for your niece to always get correct century for any year provided.
+
+Test cases:
+
+Input: 
+YEAR = 1670
+
+Output:
+CENTURY = 17
+
+---
+
+Input:
+YEAR = 1400
+
+Output:
+CENTURY = 14
+
+--
+
+Input:
+YEAR = -204
+
+Output:
+Year cannot be 0 or negative!
+
+--
+
+Input:
+YEAR = 0
+
+Output:
+Year cannot be 0 or negative!

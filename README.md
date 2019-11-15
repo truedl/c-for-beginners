@@ -1,3 +1,6 @@
+#------------------------------------------------------------------------------------------------------------------------------
+###English
+#------------------------------------------------------------------------------------------------------------------------------
 # If you're a beginner in the C language or want to practice there is some challanges for you to train your C! #
 
 ## How to compile and run C code? ##
@@ -20,4 +23,5 @@ run
 ```
 To compile and run this code!.
 
-### Note: I'm working on new challanges (Target 999 challanges: 11 Done) ###
+### Note: I'm working on new challanges (Target 999 challanges: 11 Done) ### <- Please change this after adding new chanllanges
+

@@ -13,19 +13,19 @@
 
 float wheat_price = 5, onion_price = 10, tomato_price = 7, carrot_price = 8;
 
-int wheat_to_coins(float kg){
+int wheat_to_coins(float kg){ //function to return total price selling wheat
     return kg * wheat_price;
 }
 
-int onion_to_coins(float kg){
+int onion_to_coins(float kg){ //function to return total price selling onion
     return kg * onion_price;
 }
 
-int tomato_to_coins(float kg){
+int tomato_to_coins(float kg){ //function to return total price selling tomato
     return kg * tomato_price;
 }
 
-int carrot_to_coins(float kg){
+int carrot_to_coins(float kg){ //function to return total price selling carrot
     return kg * carrot_price;
 }
 
@@ -45,7 +45,7 @@ int main(){
         printf("Enter the amount of kilograms you sell: ");
         scanf("%f", &kg);
 
-        switch(c){
+        switch(c){ //Call correct function that you selected what you want to sell and how many do you want to sell
             case 'W':
                 earnings += wheat_to_coins(kg);
                 break;
@@ -63,7 +63,7 @@ int main(){
                 break;
             
             default:
-                printf("Uknown type of earning was provided.");
+                printf("Uknown type of earning was provided."); //handle exception
                 break;
         }
     }
