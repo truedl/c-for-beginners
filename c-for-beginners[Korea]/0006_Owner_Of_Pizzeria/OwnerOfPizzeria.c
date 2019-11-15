@@ -1,10 +1,9 @@
-// You found on the internet an owner of pizzeria. He wants to order a developer for writing a program where he can take orders. He need to type
-// the count of pizzas, the number of additions to the pizza and if delivery is needed.
-//
-// Prices:
-// One pizza is 20 coins
-// One addition to pizza is 2 coins
-// Delivery is more 5 coins
+//당신은 피자주문을 받기위한 프로그램을 개발하는 사람을 구하고 있는 pizzaria의 주인을 발견했다.그는 피자의 개수, 토핑의 개수, 배달여부를 입력받기를 원한다.
+
+//가격:
+//피자 한 판에 20 코인 입니다.
+//토핑하나에 2 코인이 추가로 듭니다.
+//배달은 5 코인이 추가로 듭니다.
 
 #include <stdio.h>
 
@@ -15,7 +14,7 @@ int main(){
     char c, ch;
 
     while(!quit){
-        printf("\nFor calculating new order type N.\nFor closing the program type Q.\nType: ");
+        printf("새롭게 주문하시려면 N. 프로그램을 닫으시려면 Q 를 눌러주세요.\n입력: ");
         while(1){
             scanf("%c", &c);
             if(c != '\n'){
@@ -23,22 +22,22 @@ int main(){
             }
         }
 
-        switch(c){
+        switch(c){ //프로그램을 종료할지 새로운 주문을 받을지를 결정
             case 'Q':
                 quit = 1;
                 break;
             
             case 'N':
-                printf("\n\nEnter the ordered pizzas count: ");
+                printf("\n\n주문하실 피자의 개수를 입력해주세요: ");
                 scanf("%d", &pizzas_count);
 
-                printf("\n\nEnter the ordered additions to the pizza count: ");
+                printf("\n\n토핑의 개수를 입력해주세요: ");
                 scanf("%d", &additions_count);
 
-                printf("\n\nDelivery? (Y/N): ");
+                printf("\n\n배달을 요청하시겠습니까? (Y/N): ");
                 scanf(" %c", &ch);
 
-                switch(ch){
+                switch(ch){ //배달 여부를 결정
                     case 'Y':
                         delivery = 1;
                         break;
@@ -58,13 +57,13 @@ int main(){
                     sum += delivery_price;
                 }
 
-                printf("Order price is %d coins.\n", sum);
+                printf("주문 비용은 %d 코인 입니다.\n", sum); //결과 출력
 
                 break;
 
             default:
                 if(c != '\n'){
-                    printf("Unknown option \"%c\".\n\n", c);
+                    printf("알 수 없는 옵션 입니다. \"%c\".\n\n", c); //메뉴 선택 예외처리
                 }
                 break;
         }

@@ -1,26 +1,25 @@
-You found on the internet an owner of pizzeria. He wants to order a developer for writing a program where he can take orders. He need to type
-the count of pizzas, the number of additions to the pizza and if delivery is needed.
+당신은 피자주문을 받기위한 프로그램을 개발하는 사람을 구하고 있는 pizzaria의 주인을 발견했다. 그는 피자의 개수, 토핑의 개수 , 배달여부를 입력받기를 원한다.
 
-Prices:
-One pizza is 20 coins
-One addition to pizza is 2 coins
-Delivery is more 5 coins
+가격:
+피자 한 판에 20 코인 입니다.
+토핑하나에 2 코인이 추가로 듭니다.
+배달은 5 코인이 추가로 듭니다.
 
-Example Output:
-For calculating new order type N.
-For closing the program type Q.
-Type: N
-
-
-Enter the ordered pizzas count: 2
+예상 출력:
+새롭게 주문하시려면 N.
+프로그램을 닫으시려면 Q 를 눌러주세요.
+입력: N
 
 
-Enter the ordered additions to the pizza count: 4
+주문하실 피자의 개수를 입력해주세요: 2
 
 
-Delivery? (Y/N): Y
-Order price is 53 coins.
+토핑의 개수를 입력해주세요: 4
 
-For calculating new order type N.
-For closing the program type Q.
-Type: Q
+
+배달을 요청하시겠습니까? (Y/N): Y
+주문 비용은 53 코인 입니다.
+
+새롭게 주문하시려면 N.
+프로그램을 닫으시려면 Q 를 눌러주세요.
+입력: Q
