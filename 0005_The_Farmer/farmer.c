@@ -6,7 +6,7 @@
 int main(){
     float slot, earnings = 0;
 
-    while(earnings < 200){
+    while(earnings < 200){ //Condition that the farmer ends his working.
         printf("Enter earnings: ");
         scanf("%f", &slot);
 
