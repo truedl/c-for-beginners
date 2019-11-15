@@ -1,6 +1,6 @@
-Hello, World! ¸¦ ¹Ýº¹ÇÏ¿© 10¹ø Ãâ·ÂÇÏ½Ã¿À.
+Hello, World! ë¥¼ ë°˜ë³µí•˜ì—¬ 10ë²ˆ ì¶œë ¥í•˜ì‹œì˜¤.
 
-¿¹»ó Ãâ·Â:
+ì˜ˆìƒ ì¶œë ¥:
 Hello, World!
 Hello, World!
 Hello, World!

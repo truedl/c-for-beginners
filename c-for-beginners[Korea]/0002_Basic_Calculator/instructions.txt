@@ -1,10 +1,10 @@
-µÎ ¼ýÀÚ »çÀÌ°£ÀÇ µ¡¼À,»¬¼À,°ö¼À,³ª´°¼ÀÀ» ÇÒ¼ö ÀÖ´Â ±âÃÊ °è»ê±â¸¦ ÀÛ¼ºÇÏ½Ã¿À. 
+ë‘ ìˆ«ìž ì‚¬ì´ê°„ì˜ ë§ì…ˆ,ëº„ì…ˆ,ê³±ì…ˆ,ë‚˜ëˆ—ì…ˆì„ í• ìˆ˜ ìžˆëŠ” ê¸°ì´ˆ ê³„ì‚°ê¸°ë¥¼ ìž‘ì„±í•˜ì‹œì˜¤. 
 
-¿¹»ó Ãâ·Â(µ¡¼ÀÀÇ °æ¿ì):
-addition=µ¡¼À(A), subtraction=»¬¼À(S), multiplication=°ö¼À(M), division=³ª´°¼À(D) Áß¿¡ ¹«¾ùÀ» ÇÏ½Ã°Ú½À´Ï±î? A
-Ã¹¹øÂ° ¼ýÀÚ: 10
-µÎ¹øÂ° ¼ýÀÚ: 20
+ì˜ˆìƒ ì¶œë ¥(ë§ì…ˆì˜ ê²½ìš°):
+addition=ë§ì…ˆ(A), subtraction=ëº„ì…ˆ(S), multiplication=ê³±ì…ˆ(M), division=ë‚˜ëˆ—ì…ˆ(D) ì¤‘ì— ë¬´ì—‡ì„ í•˜ì‹œê² ìŠµë‹ˆê¹Œ? A
+ì²«ë²ˆì§¸ ìˆ«ìž: 10
+ë‘ë²ˆì§¸ ìˆ«ìž: 20
 30.000000
 
 
-PS.¿Ö µ¡¼À °á°ú°¡ ½Ç¼ö ÀÎÁö »ý°¢ÇØº¸ÀÚ
+PS.ì™œ ë§ì…ˆ ê²°ê³¼ê°€ ì‹¤ìˆ˜ ì¸ì§€ ìƒê°í•´ë³´ìž
