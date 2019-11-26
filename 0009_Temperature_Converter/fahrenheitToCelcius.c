@@ -1,3 +1,8 @@
+//Joy is from Canada where temperature is measured in celcius.
+
+//Joy goes to USAand finds himself in trouble all the time as temperature is measured in Fahrenheit.
+
+//Knowing formula to convert temperature, help Joy to convert temperature from Fahrenheit to Celcius.
 #include<stdio.h>
  
 void main()

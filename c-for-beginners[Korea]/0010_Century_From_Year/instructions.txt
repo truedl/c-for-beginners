@@ -1,37 +1,37 @@
-Your 7 year old niece always finds it troublesome to get century for year provided. Especially, when asked about 100th year of each century. 
+당신의 7살인 조카 딸은 특히 100년단위로 물어봤을때, 항상 몇 세기인지 알지 못하는 문제가 있다. 
 
-For example, given 1800, she wouldn't be sure whether it's 18th century or 19th.
+예를들어, 1800년이라고 하면 그녀는 18세기인지 19세기인지 확신하지 못한다.
 
-Write a C program for your niece to always get correct century for any year provided.
+당신의 조카 딸을 위해 , 주어진 년도의 세기를 정확히 알아내주는 C 프로그램을 작성하시오.
 
-Test cases:
+실험 케이스:
 
-Input: 
-YEAR = 1670
+입력: 
+년도 = 1670
 
-Output:
-CENTURY = 17
+출력:
+세기 = 17
 
 ---
 
-Input:
-YEAR = 1400
+입력:
+년도 = 1400
 
-Output:
-CENTURY = 14
-
---
-
-Input:
-YEAR = -204
-
-Output:
-Year cannot be 0 or negative!
+출력:
+세기 = 14
 
 --
 
-Input:
-YEAR = 0
+입력:
+년도 = -204
 
-Output:
-Year cannot be 0 or negative!
+출력:
+년도는 0 또는 음수가 될 수 없습니다.!
+
+--
+
+입력:
+년도 = 0
+
+출력:
+년도는 0 또는 음수가 될 수 없습니다.!

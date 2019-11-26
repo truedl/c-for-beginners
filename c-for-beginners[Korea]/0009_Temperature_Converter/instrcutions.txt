@@ -1,20 +1,19 @@
-Joy is from Canada where temperature is measured in celcius. 
+Joy는 캐나다에서온 온도를 섭씨로 측정하는 것이다.
 
-Joy goes to USA and finds himself in trouble all the time as temperature is measured in Fahrenheit.
+Joy가 미국에 갔을 때 , 온도가 항상 화씨로 측정된다는 문제를 발견했다.
+온도 변환 공식을 알고, Joy가 화씨를 섭씨로 변환할 수 있도록 도와주세요.
 
-Knowing formula to convert temperature, help Joy to convert temperature from Fahrenheit to Celcius.
+공식: 
 
-Formula: 
-
-Celcius = (Fahrenheit - 32) * 5 / 9;
+섭씨 = (화씨 - 32) * 5 / 9;
 
 
-Example #1:
+예제 #1:
 
-Input: 120
-Output: 48.89
+입력: 120
+출력: 48.89
 
-Example #2:
+예제 #2:
 
-Input: 194
-Output: 90
+입력: 194
+출력: 90
