@@ -1,17 +1,17 @@
-Your brother Alex is getting ready to participate at the 40km marathon in the next week. He is asking you to write a stopwatch program
-that he can start it and stop it and check his time in minutes.
+당신의 형제인 Alex는 다음주에 있을 40KM 마라톤에 참가하기위해 준비하고 있다.
+그는 당신에게 시작과 끝을 분단위로 표시해주는 스톱워치프로그램을 만들어달라고 요구하고있다.
 
-Example Output:
-Press enter to start or type ANY one character to quit.
-
-
-Press enter to stop the stopwatch.
-
-Result: 0.104 minutes.
-Press enter to start or type ANY one character to quit.
+예상 출력:
+시작하시려면 엔터 혹은 종료하시려면 아무키나 눌러주세요.
 
 
-Press enter to stop the stopwatch.
+스톱워치를 멈추시려면 엔터를 눌러주세요.
 
-Result: 0.173 minutes.
-Press enter to start or type ANY one character to quit.
+결과: 0.104 분.
+시작하시려면 엔터 혹은 종료하시려면 아무키나 눌러주세요.
+
+
+스톱워치를 멈추시려면 엔터를 눌러주세요.
+
+결과: 0.173 분.
+시작하시려면 엔터 혹은 종료하시려면 아무키나 눌러주세요.

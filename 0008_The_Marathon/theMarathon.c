@@ -15,10 +15,10 @@ int main(){
 
         switch(c){
             case '\n':
-                start = clock();
+                start = clock();//check start time and save in value.
                 printf("\nPress enter to stop the stopwatch.\n");
                 scanf("%c", &s);
-                end = clock() - start;
+                end = clock() - start;//check end time and save in value.
                 printf("Result: %.3f minutes.\n", end/1000.0/100.0);
                 break;
             

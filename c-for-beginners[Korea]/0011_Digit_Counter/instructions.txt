@@ -1,1 +1,9 @@
-Taking an input of a natural number and a char represnting a digit (0-9), count and print the number of times that digit appears in the number. Ignore all edge cases.
+자연수를 입력받고 결과를 나타낼 숫자를(0~9)입력 한다고 하자 , 이때 해당 숫자가 몇번 나타나는지 출력하시오.
+단 극단적 경우는 신경쓰지 않는다.
+
+예상 출력:
+
+숫자를 입력하세요: 101
+대상 숫자를 입력하세요(0~9): 1
+
+1은 해당 숫자 안에서 2번 나옵니다.

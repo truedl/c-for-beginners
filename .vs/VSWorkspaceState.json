@@ -1,16 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\0001_Hello_World",
-    "\\0002_Basic_Calculator",
-    "\\0003_Hello_World_Ten_Times",
-    "\\0004_Total_Sum",
-    "\\c-for-beginners[Korea]",
-    "\\c-for-beginners[Korea]\\0001_Hello_World",
-    "\\c-for-beginners[Korea]\\0002_Basic_Calculator",
-    "\\c-for-beginners[Korea]\\0003_Hello_World_Ten_Times",
-    "\\c-for-beginners[Korea]\\0004_Total_Sum"
+    "\\c-for-beginners[KOREA]",
+    "\\c-for-beginners[KOREA]\\0007_The_Farmer_Came_Back"
   ],
-  "SelectedNode": "\\c-for-beginners[Korea]\\0002_Basic_Calculator\\calculator.c",
+  "SelectedNode": "\\c-for-beginners[KOREA]\\0007_The_Farmer_Came_Back\\TheFarmerCameBack.c",
   "PreviewInSolutionExplorer": false
 }

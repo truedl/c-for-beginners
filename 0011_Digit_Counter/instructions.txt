@@ -1,1 +1,8 @@
 Taking an input of a natural number and a char represnting a digit (0-9), count and print the number of times that digit appears in the number. Ignore all edge cases.
+
+Example output:
+
+Enter a number: 101
+Enter a digit (0-9): 1
+
+1 appears 2 times in the number
