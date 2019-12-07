@@ -1,0 +1,42 @@
+There is a liver which is danger when Falling into it in a town.
+To go market , people need to cross stone bridge.
+But, It was broken by natural disaster.
+So, They should use this old wood bridge to go market.
+But, This bridge is so old to use , some footrest maybe is broken when They cross the bridge.
+footrest is 10.
+when these have several durability , how many people can cross the bridge?
+
+Explanation
+-Type durability each 10 footrests(1-5)
+-When One person tries to cross bridge and is on footrest , It's durability is decreased by 1.
+-If next footrest's durability is 0 , You can jump.
+(In this case, durabiliy is decreased by jump size.)
+-End when they doesn't cross birdge anymore.
+
+Example Output1:
+Type 1's footrest durability: 3
+Type 2's footrest durability: 1
+Type 3's footrest durability: 2
+Type 4's footrest durability: 2
+Type 5's footrest durability: 2
+Type 6's footrest durability: 2
+Type 7's footrest durability: 2
+Type 8's footrest durability: 2
+Type 9's footrest durability: 2
+Type 10's footrest durability: 2
+1's footrest is broken so they can't cross the bridge
+2 people can cross the bridge
+
+Example Output2:
+Type 1's footrest durability: 5
+Type 2's footrest durability: 4
+Type 3's footrest durability: 3
+Type 4's footrest durability: 2
+Type 5's footrest durability: 1
+Type 6's footrest durability: 5
+Type 7's footrest durability: 4
+Type 8's footrest durability: 3
+Type 9's footrest durability: 2
+Type 10's footrest durability: 1
+5's footrest is broken so they can't cross the bridge
+1 people can cross the bridge
