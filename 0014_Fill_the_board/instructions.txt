@@ -1,0 +1,16 @@
+You are locked in the labyrinth.
+If you want to get out from here , you should fill 3x3 grid with number.
+When you fill grid number , there is no duplication horizenly and vertically
+To know this , you should make program fastly.
+
+Example Output1:
+Fill the number: 3 1 2
+Fill the number: 1 2 3
+Fill the number: 2 3 1
+Correct! you can get out from here.
+
+Example Output2:
+Fill the number: 3 1 2
+Fill the number: 3 2 1
+Fill the number: 2 3 1
+Incorrect! you can't get out from here.

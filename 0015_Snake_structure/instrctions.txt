@@ -1,0 +1,20 @@
+You learned about structure in class.
+So You think that You present snake who eats food in structure.
+Here are Conditions
+
+Explanation
+-initial snake length is 3m
+-If snake eats food bigger than him , He dies.
+-Else He grows up a size like a food.
+
+Example Output1:
+Type size of food: 1
+Type size of food: 2
+Type size of food: 3
+Type size of food: 10
+Snake dies while eating food bigger than him. Total Length is 9m
+
+Example Output2:
+Type size of food: 3
+Type size of food: 7
+Snake dies while eating food bigger than him. Total Length is 6m

@@ -1,0 +1,32 @@
+Farmer has a good day because of program which you make.
+But Recently people who cultivates onion mount up fastly.
+So He thinks that He needs to change onion price 10 5 coins. 
+Thus Farmer asks you of add modify price fuction in this program.
+
+He still can take a break after earning 1000 coins. 
+You should make fuction which changes price of all crops.
+
+base Prices:
+Wheat (One kg) is 5 coins.
+Onion (One kg) is 10 coins.
+Tomato (One kg) is 7 coins.
+Carrot (One kg) is 8 coins.
+
+example output:
+Select Menu (Modify Price [M], Selling [S]): M
+Enter type of earning (Wheat [W], Onions [O], Tomato [T] or Carrot [C]): O
+Type new price(coin): 5
+Change Onion price to 5 coin
+Select Menu (Modify Price [M], Selling [S]): S
+Enter type of earning (Wheat [W], Onions [O], Tomato [T] or Carrot [C]): W
+Enter the amount of kilograms you sell: 10
+Select Menu (Modify Price [M], Selling [S]): S
+Enter type of earning (Wheat [W], Onions [O], Tomato [T] or Carrot [C]): O
+Enter the amount of kilograms you sell: 30
+Select Menu (Modify Price [M], Selling [S]): S
+Enter type of earning (Wheat [W], Onions [O], Tomato [T] or Carrot [C]): C
+Enter the amount of kilograms you sell: 80
+Select Menu (Modify Price [M], Selling [S]): S
+Enter type of earning (Wheat [W], Onions [O], Tomato [T] or Carrot [C]): T
+Enter the amount of kilograms you sell: 120
+You've earned 1530.000 coins, you can take a break.
