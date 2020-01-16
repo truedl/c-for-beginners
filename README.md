@@ -20,5 +20,6 @@ run
 ```
 To compile and run this code!.
 
-### Note: I'm working on new challanges (Target 999 challanges: 15 Done) ### <- Please change this after adding new chanllanges
+### Note 1: you can add -o parameter to the gcc command to give the executable file different name. For example: gcc your_c_code.c -o custom_name.exe
+### Note 2: I'm working again on new challengs, current target: 100 challenges (15 Done) ### <- Please change this after adding new chanllanges
 
