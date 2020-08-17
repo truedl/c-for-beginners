@@ -1,0 +1,56 @@
+A bank established in 1970 is having trouble telling new and old customers when their loan is/was due. 
+Suppose all loans are due in 100 days.
+Write a program that takes in an input date(xx/xx/xxxx) and outputs the date 100 days later.
+
+Test cases:
+
+Enter a date when the loan was taken out in XX/XX/XXXX format
+1/1/2020
+Sun Jan 01 00:00:00 2020
+is when the loan was issued
+Fri Apr 10 01:00:00 2020
+is when the loan is due
+
+---
+
+Enter a date when the loan was taken out in XX/XX/XXXX format
+Garbage
+incorrect input! Month or Year incorrect!
+
+---
+Enter a date when the loan was taken out in XX/XX/XXXX format
+30/30/30
+incorrect input! Month or Year incorrect!
+
+---
+
+Enter a date when the loan was taken out in XX/XX/XXXX format
+12/24/1960
+incorrect input! Month or Year incorrect
+
+---
+
+5/24/1998
+Sun May 24 00:00:00 1998
+is when the loan was issued
+Tue Sep 01 01:00:00 1998
+is when the loan is due
+
+---
+
+Enter a date when the loan was taken out in XX/XX/XXXX format
+8/17/2020
+Sun Aug 17 00:00:00 2020
+is when the loan was issued
+Wed Nov 25 00:00:00 2020
+is when the loan is due
+
+---
+
+7/14/2005
+Sun Jul 14 00:00:00 2005
+is when the loan was issued
+Sat Oct 22 01:00:00 2005
+is when the loan is due
+
+---
