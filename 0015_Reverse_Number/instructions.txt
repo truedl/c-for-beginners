@@ -1,3 +1,0 @@
-The program reverseNumber.c takes a whole number as an input and prints its reverse.
-Input: 123
-Output: 321
